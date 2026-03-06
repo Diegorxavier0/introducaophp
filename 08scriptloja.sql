@@ -21,4 +21,4 @@ VALUES
      (3, 'Tênis','500.00','2');
  
 SELECT nome,preco,estoque FROM podutos;
- 
+
